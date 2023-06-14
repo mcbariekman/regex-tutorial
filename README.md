@@ -46,7 +46,7 @@ Match: "hello-hello"
 
 [Insert example that meets the requirements of Component 4.]
 
-## About the Author
-This tutorial was written by Jane Smith. Visit her [GitHub profile](https://github.com/janesmith) to learn more about her work.
+## About
+This tutorial was written by Madilyn Bariekman. 
 
-Revisions to the tutorial must be made in the GitHub gist UI so that graders have access to your revision history.
+**Note: To view the properly rendered Markdown, please visit the [public gist](https://gist.github.com/) and ensure that the file has the `.md` extension.
