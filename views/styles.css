@@ -1,0 +1,79 @@
+/* Apply general styles to the entire document */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    max-width: 900px;
+  }
+  
+  /* Style the h1 element */
+  h1 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  /* Style the h2 elements */
+  h2 {
+    color: #666;
+    font-size: 18px;
+  }
+  
+  /* Style the p elements */
+  p {
+    color: #999;
+    font-size: 14px;
+  }
+  
+  /* Style the ul element */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Style the li elements inside the ul */
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Style the a elements inside the li */
+  ul li a {
+    color: #666;
+    text-decoration: none;
+  }
+  
+  /* Style the a elements on hover */
+  ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style the pre elements */
+  pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  
+  /* Style the code elements inside the pre */
+  pre code {
+    color: #333;
+  }
+  
+  /* Style the code elements within the p */
+  p code {
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+  
+  /* Style the anchor tag */
+  a {
+    color: #666;
+    text-decoration: none;
+  }
+  
+  /* Style the anchor tag on hover */
+  a:hover {
+    text-decoration: underline;
+  }
+  
